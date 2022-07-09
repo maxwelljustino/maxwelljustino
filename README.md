@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Maxwell J. Ferreira 👋
 
-- 🌱 Cursando 2° semestre do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da PUC MG.
+- 🌱 Cursando 3° semestre do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da PUC MG.
 
 
 <div style="display: inline_block"><br>
