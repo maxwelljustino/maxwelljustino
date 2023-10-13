@@ -1,12 +1,15 @@
 ### Olá! Eu sou o Maxwell J. Ferreira 👋
 
-- 🌱 Cursando o 5° semestre do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da PUC MG.
+- 🌱 Desenvolvedor front-end apaixonado por criar experiências de usuário incríveis com HTML, CSS, JavaScript, Bootstrap e Figma. Formado em Análise e Desenvolvimento de Sistemas pela PUC MG. Vamos criar juntos!
 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img align="center" alt="Rafa-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg"> 
+
 </div>
 
 ##
